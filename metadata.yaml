@@ -1,0 +1,44 @@
+_repo: Woodstock--or-the-Cavalier_9785
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Scott, Walter
+    aliases:
+    - Malagrowther, Malachi
+    - Templeton, Laurence
+    - Scott, Sir Walter
+    - Cleishbotham, Jedediah
+    birthdate: 1771
+    deathdate: 1832
+    gutenberg_agent_id: '59'
+    url: http://www.gutenberg.org/2009/agents/59
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
+description: "Woodstock, or The Cavalier. A Tale of the Year Sixteen Hundred and Fifty-one\
+  \ (1826) is a historical novel by Walter Scott. Set just after the English Civil\
+  \ War, it was inspired by the legend of the Good Devil of Woodstock, which in 1649\
+  \ supposedly tormented parliamentary commissioners who had taken possession of a\
+  \ royal residence at Woodstock, Oxfordshire. The story deals with the escape of\
+  \ Charles II in 1652, during the Commonwealth, and his final triumphant entry into\
+  \ London on 29 May 1660.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Historical Fiction
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9785'
+  wikidata: Q3569843
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Great Britain -- History -- Commonwealth and Protectorate, 1649-1660 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: Woodstock; or, the Cavalier
+url: http://www.gutenberg.org/ebooks/9785
+wikipedia:
+- https://ru.wikipedia.org/wiki/%D0%92%D1%83%D0%B4%D1%81%D1%82%D0%BE%D0%BA_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://fr.wikipedia.org/wiki/Woodstock_(roman)
+- https://ar.wikipedia.org/wiki/%D9%88%D9%88%D8%AF%D8%B3%D8%AA%D9%88%D9%83_(%D8%B1%D9%88%D8%A7%D9%8A%D8%A9)
+- https://en.wikipedia.org/wiki/Woodstock_(novel)
