@@ -1,5 +1,8 @@
 _repo: Woodstock--or-the-Cavalier_9785
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -20,6 +23,8 @@ description: "Woodstock, or The Cavalier. A Tale of the Year Sixteen Hundred and
   \ royal residence at Woodstock, Oxfordshire. The story deals with the escape of\
   \ Charles II in 1652, during the Commonwealth, and his final triumphant entry into\
   \ London on 29 May 1660.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9785#Woodstock--or-the-Cavalier
 gutenberg_bookshelf: Historical Fiction
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
